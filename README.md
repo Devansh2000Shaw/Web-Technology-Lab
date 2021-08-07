@@ -1,11 +1,11 @@
 # Lab 4
-  ```Topic – Writing, compiling and executing a simple Java program
+  Topic – Writing, compiling and executing a simple Java program
                 - Giving input to the program in Java
                 - Use of control statements in Java
-                - Use of iteration statement in Java```
+                - Use of iteration statement in Java
 
 Q1). Program to print your name, roll no, section and branch in separate lines. <br/>
-Q2). Program to print the corresponding grade for the given mark using if..else statement in Java. </br>
+Q2). Program to print the corresponding grade for the given mark using if..else statement in Java. <br/>
 Q3). Program to print the corresponding week day for the given day no. of the current month using switch..case statement in Java
 Q4). Program to check a user entered number is palindrome or not.
 Q5). Write a program in Java to take first name and last name from user and print both in one line as last name followed by first name.
