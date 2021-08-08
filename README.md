@@ -1,8 +1,9 @@
 # Lab 4
-  Topic – Writing, compiling and executing a simple Java program
-                - Giving input to the program in Java
-                - Use of control statements in Java
-                - Use of iteration statement in Java
+  Topics 
+  - Writing, compiling and executing a simple Java program
+  - Giving input to the program in Java
+  - Use of control statements in Java
+  - Use of iteration statement in Java
 
 Q1). Program to print your name, roll no, section and branch in separate lines. <br/>
 Q2). Program to print the corresponding grade for the given mark using if..else statement in Java. <br/>
@@ -11,9 +12,10 @@ Q4). Program to check a user entered number is palindrome or not. <br/>
 Q5). Write a program in Java to take first name and last name from user and print both in one line as last name followed by first name. <br/>
 
 # Lab 5 
- Topic – Array in Java
-                - Command line arguments in Java
-                - static and final modifier in Java
+ Topics
+ - Array in Java
+ - Command line arguments in Java
+ - static and final modifier in Java
 
 Q1). Find the largest among 3 user entered nos. at the command prompt using Java <br/>
 Q2). Accept 10 numbers from command line and check how many of them are even and how many odd. <br/>
@@ -23,9 +25,10 @@ Q5). Find the no. of occurrence of each element in an user entered list of nos. 
 Q6). Find sum of each diagonal (left & right) elements separately of a user entered 3 X 3 matrixes in Java. <br/>
 
 # Lab 6
- Topic – class and objects in Java
- -method overloading in Java
- -constructor overloading in Java
+ Topics 
+ - class and objects in Java
+ - method overloading in Java
+ - constructor overloading in Java
 
 Q1). Write a class file – box with three data members(length, width, height) and a method volume() . Also implement the application class Demo where an object of the box class is created with user entered dimensions and volume is printed. <br/>
 Q2). Write a program to overload subtract method with various parameters in a class in Java <br/>
@@ -36,10 +39,11 @@ Q6). Write a program to calculate area according to user input, whether it is ci
 Q7). Write a program in Java to define a class Number with appropriate data members and member functions to input n number of integers and swap the biggest and smallest elements. Use member functions read(), swap() and display(). <br/>
 
 # Lab 7
- Topic – Single level inheritance in Java
-- Multi-level inheritance in Java
-- Method Overriding
-- Dynamic Method Dispatch
+ Topics 
+ - Single level inheritance in Java
+ - Multi-level inheritance in Java
+ - Method Overriding
+ - Dynamic Method Dispatch
 
 Q1).A plastic manufacturer sells plastic in different shapes like 2D sheet and 3D box. The cost of sheet is Rs 40/ per square ft. and the cost of box is Rs 60/ per cubic ft. Implement it in Java to calculate the cost of plastic as per the dimensions given by the user where 3D inherits from 2D. <br/>
 Q2). Illustrate the execution of constructors in multi-level inheritance with three Java classes – plate(length, width), box(length, width, height), wood box(length, width, height, thick) <br/>
@@ -49,8 +53,9 @@ Q5). Write a program to create an Account class containing acc_no, balance as da
 Q6). Write a program in java using inheritance to show how to call the base class parameterized constructors from the derived class using super. <br/>
 
 # Lab 8
-  Topic – Abstract classes in Java
-- Interface in Java
+  Topics 
+  - Abstract classes in Java
+  - Interface in Java
 
 Q1). Illustrate the usage of abstract class with following Java classes - <br/>
      i). An abstract class „student‟ with data member roll no, reg no and a abstract method course() <br/>
@@ -62,8 +67,9 @@ deduction PF = 12% of basic <br/>
 bonus = 50% of basic <br/>
 
 # Lab 9
- Topic – Package in Java 
-- String handling in Java
+ Topics 
+ - Package in Java 
+ - String handling in Java
 
 Q1). Define two packages as – General and Marketing. In General package define a class „employee‟ with data members as empid(protected), ename(private) and a public method as earnings() which calculate total earnings as <br/> earnings = basic + DA (80% of basic) + HRA (15% of basic) <br/>
 In Marketing package define a class „sales‟ which is extending from „employee‟ class and has a method tallowance() which calculates Travelling Allowance as 5% of total earning. Write the programs to find out total earning of a sales person for the given basic salary amount and print along with the emp id. <br/>
@@ -75,7 +81,8 @@ Q2).  Write a program to perform following operations on user entered strings �
 Q3). Program on Dynamic Method Dispatch. <br/>
 
 # Lab 10
- Topic – Exception handling in Java 
+ Topics 
+ - Exception handling in Java 
  - ArithmaticException, ArrayIndexOutofBoundsException, 
  - NullPointerException
  - User defined exception in Java
